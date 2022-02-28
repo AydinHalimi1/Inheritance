@@ -8,6 +8,7 @@ def main():
     mammal = animals.Mammal('regular animal')
     dog = animals.Dog()
     cat = animals.Cat()
+    
 
     # Display information about each one.
     print('Here are some animals and')
